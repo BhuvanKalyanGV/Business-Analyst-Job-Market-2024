@@ -464,5 +464,3 @@ Business-Analyst-Job-Market-2024/
         ├── location_concentration.png
         ├── skills_per_job.png
         └── top_skills.png
-    └── Skills_Per_Job.png
-    
