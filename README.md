@@ -426,32 +426,43 @@ All visualisations are stored in the `Visualisations` directory.
 Business-Analyst-Job-Market-2024/
 │
 ├── README.md
+├── LICENSE
 │
 ├── Report/
-│   └── BI_Ass1(5).docx
+│   └── BIA_Assignment1_Final_Report.docx
 │
 ├── Code/
-│   └── BIA_Assignment1_Analysis.ipynb
+│   ├── Individual_work.ipynb
+│   └── Final_Preliminary_Exploration.ipynb
 │
 ├── Data/
-│   └── Business_Analyst_Integrated_Dataset.xlsx
+│   ├── Business_Analyst_Integrated_Dataset.xlsx
+│   ├── Individual_BA_Integrated_Dataset.xlsx
+│   ├── business_analyst_jobs.csv
+│   ├── business_analyst_skills.csv
+│   └── BA_job_summary.csv
 │
 └── Visualisations/
-    ├── DQ_Figure_1_Integration_Coverage.png
-    ├── DQ_Figure_2_Completeness.png
-    ├── DQ_Figure_3_Uniqueness.png
-    ├── DQ_Figure_4_Job_Level.png
-    ├── DQ_Figure_5_Job_Type.png
-    ├── DQ_Figure_6_Search_Country.png
-    ├── DQ_Figure_7_Timeliness.png
-    ├── DQ_Figure_8_Skill_Count_Distribution.png
-    ├── DQ_Figure_9_Duplicate_Skills.png
-    ├── Top_Job_Titles.png
-    ├── Top_Companies.png
-    ├── Title_Concentration.png
-    ├── Company_Concentration.png
-    ├── Top_Job_Locations.png
-    ├── Geographic_Concentration.png
-    ├── Top_Skills.png
+    ├── Data_Quality/
+    │   ├── integration_coverage.png
+    │   ├── completeness.png
+    │   ├── uniqueness.png
+    │   ├── job_level.png
+    │   ├── job_type.png
+    │   ├── location.png
+    │   ├── first_seen_date.png
+    │   ├── skill_distribution.png
+    │   └── duplicate_skills.png
+    │
+    └── Preliminary_Analysis/
+        ├── top_job_titles.png
+        ├── top_companies.png
+        ├── title_concentration.png
+        ├── company_concentration.png
+        ├── search_country.png
+        ├── job_locations.png
+        ├── location_concentration.png
+        ├── skills_per_job.png
+        └── top_skills.png
     └── Skills_Per_Job.png
     
