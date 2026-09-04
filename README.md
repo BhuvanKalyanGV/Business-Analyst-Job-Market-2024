@@ -428,14 +428,14 @@ Business-Analyst-Job-Market-2024/
 ├── README.md
 ├── LICENSE
 │
-├── Report/
-│   └── BIA_Assignment1_Final_Report.docx
+├── report/
+│   └── a3196649_Report.docx
 │
-├── Code/
+├── code/
 │   ├── Individual_work.ipynb
 │   └── Final_Preliminary_Exploration.ipynb
 │
-├── Data/
+├── extracted datasets/
 │   ├── Business_Analyst_Integrated_Dataset.xlsx
 │   ├── Individual_BA_Integrated_Dataset.xlsx
 │   ├── business_analyst_jobs.csv
@@ -443,7 +443,7 @@ Business-Analyst-Job-Market-2024/
 │   └── BA_job_summary.csv
 │
 └── Visualisations/
-    ├── Data_Quality/
+    ├── dq analysis/
     │   ├── integration_coverage.png
     │   ├── completeness.png
     │   ├── uniqueness.png
@@ -454,7 +454,7 @@ Business-Analyst-Job-Market-2024/
     │   ├── skill_distribution.png
     │   └── duplicate_skills.png
     │
-    └── Preliminary_Analysis/
+    └── final preliminary analysis/
         ├── top_job_titles.png
         ├── top_companies.png
         ├── title_concentration.png
