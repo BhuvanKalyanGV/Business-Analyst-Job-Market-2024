@@ -405,6 +405,9 @@ Dataset paths and file locations may need to be adjusted depending on the execut
 
 ---
 
-# About
+
+---
+
+## About
 
 An analytical project exploring the 2024 Business Analyst job market using LinkedIn job advertisements, with a focus on job demand, geographic distribution, employer requirements and Business Analyst capabilities.
