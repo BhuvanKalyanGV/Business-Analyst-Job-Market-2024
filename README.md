@@ -366,25 +366,25 @@ Business-Analyst-Job-Market-2024/
 ├── README.md
 ├── LICENSE
 │
-├── report/
-│   ├── a3196649_Report.docx
-│   └── Individual Analytical Report.docx
+├── RQ3 Analysis/
+│   └── Assignment 2 individual analysis files
 │
 ├── code/
-│   ├── Individual_work.ipynb
-│   ├── Final_Preliminary_Exploration.ipynb
-│   └── Assignment 2 Python Colab Notebook (.ipynb)
+│   └── Assignment 1 Python notebooks
 │
 ├── extracted datasets/
-│   ├── Business_Analyst_Integrated_Dataset.xlsx
-│   ├── Individual_BA_Integrated_Dataset.xlsx
-│   ├── business_analyst_jobs.csv
-│   ├── business_analyst_skills.csv
-│   └── BA_job_summary.csv
+│   └── Supporting datasets used for analysis
 │
-└── Visualisations/
-    ├── dq analysis/
-    └── final preliminary analysis/
+├── mindmap/
+│   └── Project planning and research mindmap
+│
+├── report/
+│   ├── Assignment 1 report
+│   └── Individual Analytical Report – RQ3
+│
+└── visualizations/
+    ├── Data quality visualizations
+    └── Preliminary analysis visualizations
 ```
 
 *The repository structure above summarises the main project components. Refer to the repository for the complete file listing.*
